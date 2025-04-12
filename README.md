@@ -25,4 +25,4 @@ Este repositorio contiene una colección de proyectos prácticos desarrollados c
 ## ✨ Autor
 
 Jose Dario Angulo Solis  
-LinkedIn: [linkedin.com/in/josedario](https://linkedin.com/in/josedario)
+LinkedIn: [linkedin.com/in/josedario](www.linkedin.com/in/jose-dario-b9980b331)
