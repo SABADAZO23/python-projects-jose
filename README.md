@@ -4,9 +4,7 @@ Este repositorio contiene una colección de proyectos prácticos desarrollados c
 
 ## 📁 Contenido
 
-- **web_scraper/**: Script que extrae títulos y precios desde páginas web.
-- **email_analyzer/**: Analiza archivos `.mbox` y genera estadísticas de uso.
-- **database_manager/**: Sistema básico en SQLite para gestión de datos personales.
+- Hay que llenarlo.
 
 ## 🧠 Tecnologías utilizadas
 
